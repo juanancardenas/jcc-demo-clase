@@ -7,4 +7,8 @@ public class C6 {
     public void setX(int x) {
         this.x = x;
     }
+
+    public void setX(int iX, int level) {
+        this.x = iX;
+    }
 }
